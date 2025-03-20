@@ -21,8 +21,8 @@
 ### Краткая информация о данных
 Данные находятся на странице соревнования Kaggle '[SF-DST] Booking reviews' (https://www.kaggle.com/competitions/sf-booking/data). 
 
-hotels_train.csv - набор данных для обучения
-hotels_test.csv - набор данных для оценки качества
+hotels_train.csv - набор данных для обучения  
+hotels_test.csv - набор данных для оценки качества  
 submission.csv - файл сабмишна в нужном формате  
 
 :arrow_up:[к оглавлению](#Оглавление)
